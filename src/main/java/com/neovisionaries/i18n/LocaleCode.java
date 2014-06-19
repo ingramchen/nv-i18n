@@ -922,7 +922,7 @@ public enum LocaleCode
     zh_SG(LanguageCode.zh, CountryCode.SG),
 
     /**
-     * {@link LanguageCode#zh Chinese}, {@link CountryCode#TW Taiwan, Province of China}
+     * {@link LanguageCode#zh Chinese}, {@link CountryCode#TW Taiwan}
      */
     zh_TW(LanguageCode.zh, CountryCode.TW)
     {
